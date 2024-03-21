@@ -1,4 +1,4 @@
-[DESSIGNPATTERN](https://images.app.goo.gl/bBjZowrWAiDFk4x19)
+![LOGO](https://t3.ftcdn.net/jpg/05/70/36/18/360_F_570361890_CVUB9tkrCfTfWxRvLESWxPOwApb9HOlr.jpg)
 
 
 # ----------- 🇺🇸 -----------
