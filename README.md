@@ -30,6 +30,3 @@ The Decorator pattern dynamically adds behavior to objects without altering thei
 
 ### Facade
 The Facade pattern provides a simplified interface to a complex system, hiding its complexity behind a single class. 🏢
-
-## Contributing
-Feel free to contribute to this repository by adding more Java design patterns or improving the existing ones! 🚀
