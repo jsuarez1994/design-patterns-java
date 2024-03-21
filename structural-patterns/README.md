@@ -13,4 +13,4 @@ eStructural design patterns deal with the composition of classes or objects to f
 🇪🇸
 ```
 
-eLos patrones de diseño estructurales se ocupan de la composición de clases u objetos para formar estructuras más grandes. Se centran en cómo las clases y los objetos pueden combinarse para formar nuevas estructuras, haciéndolas flexibles y fáciles de modificar sin alterar sus componentes individuales. Ejemplos incluyen Adaptador, Puente, Compuesto, Decorador y Fachada.
+Los patrones de diseño estructurales se ocupan de la composición de clases u objetos para formar estructuras más grandes. Se centran en cómo las clases y los objetos pueden combinarse para formar nuevas estructuras, haciéndolas flexibles y fáciles de modificar sin alterar sus componentes individuales. Ejemplos incluyen Adaptador, Puente, Compuesto, Decorador y Fachada.
