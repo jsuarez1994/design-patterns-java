@@ -7,7 +7,7 @@
 🇺🇸
 ```
 
-Adapter
+##Adapter##
 
 The Adapter pattern allows incompatible interfaces to work together by wrapping an interface around an existing class. 🔄
 
