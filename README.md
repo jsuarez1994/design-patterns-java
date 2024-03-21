@@ -1,3 +1,6 @@
+[DESSIGNPATTERN](https://images.app.goo.gl/bBjZowrWAiDFk4x19)
+
+
 # ----------- 🇺🇸 -----------
 
 
