@@ -1,4 +1,5 @@
-![LOGO](https://t3.ftcdn.net/jpg/05/70/36/18/360_F_570361890_CVUB9tkrCfTfWxRvLESWxPOwApb9HOlr.jpg)
+![BRAND](https://github.com/jsuarez1994/design-patterns-java/assets/37440029/dc0e9fe2-913b-4782-b07f-0266ae9e232f)
+
 
 
 ```
