@@ -1,3 +1,6 @@
+# ----------- 🇺🇸 -----------
+
+
 # Java Design Patterns 🧩
 
 ## Creational Patterns 🏗️
@@ -30,3 +33,41 @@ The Decorator pattern dynamically adds behavior to objects without altering thei
 
 ### Facade
 The Facade pattern provides a simplified interface to a complex system, hiding its complexity behind a single class. 🏢
+
+
+
+
+# ----------- 🇪🇸 -----------
+
+# Patrones de Diseño en Java 🧩
+
+## Patrones Creacionales 🏗️
+
+### Singleton
+El patrón Singleton asegura que una clase tenga solo una instancia y proporciona un punto de acceso global a esa instancia. 🌟
+
+### Prototype
+El patrón Prototype crea nuevos objetos copiando un objeto existente, conocido como el prototipo. 🖨️
+
+### Factory
+El patrón Factory define una interfaz para crear un objeto, pero permite que las subclases alteren el tipo de objetos que se crearán. 🏭
+
+### Builder
+El patrón Builder separa la construcción de un objeto complejo de su representación, permitiendo que el mismo proceso de construcción cree representaciones diferentes. 🔨
+
+## Patrones Estructurales 🏗️
+
+### Adapter
+El patrón Adapter permite que interfaces incompatibles trabajen juntas envolviendo una interfaz alrededor de una clase existente. 🔄
+
+### Bridge
+El patrón Bridge desacopla una abstracción de su implementación para que ambas puedan variar de forma independiente. 🌉
+
+### Composite
+El patrón Composite compone objetos en estructuras de árbol para representar jerarquías de partes y todo. 🌳
+
+### Decorator
+El patrón Decorator agrega dinámicamente comportamiento a objetos sin alterar su estructura. 🎨
+
+### Facade
+El patrón Facade proporciona una interfaz simplificada a un sistema complejo, ocultando su complejidad detrás de una sola clase. 🏢
