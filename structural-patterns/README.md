@@ -1,4 +1,4 @@
-![LOGO](https://d29fhpw069ctt2.cloudfront.net/vector/5794/preview/preview-1400x1404.jpg)
+![LOGO](https://github.com/jsuarez1994/design-patterns-java/assets/37440029/71c98fa7-ace1-4f8d-9be1-5fae0d487829)
 
 
 ### STRUCTURAL PATTERNS 🏗️
