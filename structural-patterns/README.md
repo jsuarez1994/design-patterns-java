@@ -7,10 +7,55 @@
 🇺🇸
 ```
 
-Structural design patterns deal with the composition of classes or objects to form larger structures. They focus on how classes and objects can be combined to form new structures, making them flexible and easy to modify without altering their individual components. Examples include Adapter, Bridge, Composite, Decorator, and Facade.
+Adapter
+
+The Adapter pattern allows incompatible interfaces to work together by wrapping an interface around an existing class. 🔄
+
+
+Bridge
+
+The Bridge pattern decouples an abstraction from its implementation so that the two can vary independently. 🌉
+
+
+Composite
+
+The Composite pattern composes objects into tree structures to represent part-whole hierarchies. 🌳
+
+
+Decorator
+
+The Decorator pattern dynamically adds behavior to objects without altering their structure. 🎨
+
+
+Facade
+
+The Facade pattern provides a simplified interface to a complex system, hiding its complexity behind a single class. 🏢
+
 
 ```
 🇪🇸
 ```
 
-Los patrones de diseño estructurales se ocupan de la composición de clases u objetos para formar estructuras más grandes. Se centran en cómo las clases y los objetos pueden combinarse para formar nuevas estructuras, haciéndolas flexibles y fáciles de modificar sin alterar sus componentes individuales. Ejemplos incluyen Adaptador, Puente, Compuesto, Decorador y Fachada.
+Adapter
+
+El patrón Adapter permite que interfaces incompatibles trabajen juntas envolviendo una interfaz alrededor de una clase existente. 🔄
+
+
+Bridge
+
+El patrón Bridge desacopla una abstracción de su implementación para que ambas puedan variar de forma independiente. 🌉
+
+
+Composite
+
+El patrón Composite compone objetos en estructuras de árbol para representar jerarquías de partes y todo. 🌳
+
+
+Decorator
+
+El patrón Decorator agrega dinámicamente comportamiento a objetos sin alterar su estructura. 🎨
+
+
+Facade
+
+El patrón Facade proporciona una interfaz simplificada a un sistema complejo, ocultando su complejidad detrás de una sola clase. 🏢
