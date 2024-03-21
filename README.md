@@ -1,7 +1,9 @@
 ![LOGO](https://t3.ftcdn.net/jpg/05/70/36/18/360_F_570361890_CVUB9tkrCfTfWxRvLESWxPOwApb9HOlr.jpg)
 
 
-# ----------- 🇺🇸 -----------
+```
+🇺🇸
+```
 
 
 # Java Design Patterns 🧩
@@ -38,9 +40,10 @@ The Decorator pattern dynamically adds behavior to objects without altering thei
 The Facade pattern provides a simplified interface to a complex system, hiding its complexity behind a single class. 🏢
 
 
+```
+🇪🇸
+```
 
-
-# ----------- 🇪🇸 -----------
 
 # Patrones de Diseño en Java 🧩
 
