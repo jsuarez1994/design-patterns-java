@@ -2,7 +2,7 @@
 
 
 ```
-#🇺🇸
+🇺🇸
 ```
 
 
@@ -41,7 +41,7 @@ The Facade pattern provides a simplified interface to a complex system, hiding i
 
 
 ```
-#🇪🇸
+🇪🇸
 ```
 
 
