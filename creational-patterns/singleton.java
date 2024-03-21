@@ -1,11 +1,11 @@
-public class Example {
+public class Singleton {
     private static Singleton instance;
 
-    private Example() {
+    private Singleton() {
         // Constructor privado para evitar instanciación externa
     }
 
-    public static Example getInstance() {
+    public static Singleton getInstance() {
         if (instance == null) {
             instance = new Singleton();
         }
@@ -20,7 +20,7 @@ public class Example {
 // Uso:
 public class Main {
     public static void main(String[] args) {
-        Example singleton = Example.getInstance();
+        Singleton singleton = Singleton.getInstance();
         singleton.showMessage();
     }
 }
