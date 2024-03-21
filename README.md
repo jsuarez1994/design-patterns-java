@@ -11,35 +11,11 @@
 
 ## Creational Patterns 🏗️
 
-### Singleton
-The Singleton pattern ensures that a class has only one instance and provides a global point of access to that instance. 🌟
-
-### Prototype
-The Prototype pattern creates new objects by copying an existing object, known as the prototype. 🖨️
-
-### Factory
-The Factory pattern defines an interface for creating an object, but allows subclasses to alter the type of objects that will be created. 🏭
-
-### Builder
-The Builder pattern separates the construction of a complex object from its representation, allowing the same construction process to create different representations. 🔨
+Creational design patterns focus on the process of object creation, providing flexibility in creating objects in a manner suitable for a particular situation. They help in making the system independent of how its objects are created, composed, and represented. Examples include Singleton, Prototype, Factory, and Builder.
 
 ## Structural Patterns 🏗️
 
-### Adapter
-The Adapter pattern allows incompatible interfaces to work together by wrapping an interface around an existing class. 🔄
-
-### Bridge
-The Bridge pattern decouples an abstraction from its implementation so that the two can vary independently. 🌉
-
-### Composite
-The Composite pattern composes objects into tree structures to represent part-whole hierarchies. 🌳
-
-### Decorator
-The Decorator pattern dynamically adds behavior to objects without altering their structure. 🎨
-
-### Facade
-The Facade pattern provides a simplified interface to a complex system, hiding its complexity behind a single class. 🏢
-
+Structural design patterns deal with the composition of classes or objects to form larger structures. They focus on how classes and objects can be combined to form new structures, making them flexible and easy to modify without altering their individual components. Examples include Adapter, Bridge, Composite, Decorator, and Facade.
 
 ```
 🇪🇸
@@ -50,31 +26,8 @@ The Facade pattern provides a simplified interface to a complex system, hiding i
 
 ## Patrones Creacionales 🏗️
 
-### Singleton
-El patrón Singleton asegura que una clase tenga solo una instancia y proporciona un punto de acceso global a esa instancia. 🌟
-
-### Prototype
-El patrón Prototype crea nuevos objetos copiando un objeto existente, conocido como el prototipo. 🖨️
-
-### Factory
-El patrón Factory define una interfaz para crear un objeto, pero permite que las subclases alteren el tipo de objetos que se crearán. 🏭
-
-### Builder
-El patrón Builder separa la construcción de un objeto complejo de su representación, permitiendo que el mismo proceso de construcción cree representaciones diferentes. 🔨
+Los patrones de diseño creacionales se centran en el proceso de creación de objetos, proporcionando flexibilidad en la creación de objetos de una manera adecuada para una situación particular. Ayudan a hacer que el sistema sea independiente de cómo se crean, componen y representan sus objetos. Ejemplos incluyen Singleton, Prototipo, Fábrica y Constructor.
 
 ## Patrones Estructurales 🏗️
 
-### Adapter
-El patrón Adapter permite que interfaces incompatibles trabajen juntas envolviendo una interfaz alrededor de una clase existente. 🔄
-
-### Bridge
-El patrón Bridge desacopla una abstracción de su implementación para que ambas puedan variar de forma independiente. 🌉
-
-### Composite
-El patrón Composite compone objetos en estructuras de árbol para representar jerarquías de partes y todo. 🌳
-
-### Decorator
-El patrón Decorator agrega dinámicamente comportamiento a objetos sin alterar su estructura. 🎨
-
-### Facade
-El patrón Facade proporciona una interfaz simplificada a un sistema complejo, ocultando su complejidad detrás de una sola clase. 🏢
+Los patrones de diseño estructurales se ocupan de la composición de clases u objetos para formar estructuras más grandes. Se centran en cómo las clases y los objetos pueden combinarse para formar nuevas estructuras, haciéndolas flexibles y fáciles de modificar sin alterar sus componentes individuales. Ejemplos incluyen Adaptador, Puente, Compuesto, Decorador y Fachada.
