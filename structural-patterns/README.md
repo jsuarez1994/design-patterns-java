@@ -7,27 +7,27 @@
 🇺🇸
 ```
 
-##Adapter##
+## Adapter
 
 The Adapter pattern allows incompatible interfaces to work together by wrapping an interface around an existing class. 🔄
 
 
-Bridge
+## Bridge
 
 The Bridge pattern decouples an abstraction from its implementation so that the two can vary independently. 🌉
 
 
-Composite
+## Composite
 
 The Composite pattern composes objects into tree structures to represent part-whole hierarchies. 🌳
 
 
-Decorator
+## Decorator
 
 The Decorator pattern dynamically adds behavior to objects without altering their structure. 🎨
 
 
-Facade
+## Facade
 
 The Facade pattern provides a simplified interface to a complex system, hiding its complexity behind a single class. 🏢
 
@@ -36,26 +36,26 @@ The Facade pattern provides a simplified interface to a complex system, hiding i
 🇪🇸
 ```
 
-Adapter
+## Adapter
 
 El patrón Adapter permite que interfaces incompatibles trabajen juntas envolviendo una interfaz alrededor de una clase existente. 🔄
 
 
-Bridge
+## Bridge
 
 El patrón Bridge desacopla una abstracción de su implementación para que ambas puedan variar de forma independiente. 🌉
 
 
-Composite
+## Composite
 
 El patrón Composite compone objetos en estructuras de árbol para representar jerarquías de partes y todo. 🌳
 
 
-Decorator
+## Decorator
 
 El patrón Decorator agrega dinámicamente comportamiento a objetos sin alterar su estructura. 🎨
 
 
-Facade
+## Facade
 
 El patrón Facade proporciona una interfaz simplificada a un sistema complejo, ocultando su complejidad detrás de una sola clase. 🏢
